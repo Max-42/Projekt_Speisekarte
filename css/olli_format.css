@@ -16,3 +16,23 @@ th,td{
     padding: 5px;
     text-align: left;
 }
+
+tr:nth-child(even){
+    background-color: #fdbf00;
+}
+
+tr:nth-child(odd){
+    background-color: #fff;
+}
+
+.blau{
+    background-color: aqua;
+}
+
+
+#essen{
+    border: none;
+}
+#preis{
+    border: none;
+}

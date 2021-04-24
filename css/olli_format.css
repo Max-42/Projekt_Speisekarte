@@ -30,9 +30,25 @@ tr:nth-child(odd){
 }
 
 
-#essen{
+.essen{
     border: none;
 }
-#preis{
+
+.preis{
     border: none;
+}
+
+
+.letztepreis{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+
+.letzteessen{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
 }

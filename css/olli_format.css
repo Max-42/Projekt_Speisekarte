@@ -50,10 +50,12 @@ tr:nth-child(1) > .blau{
 
 .essen{
     border: none;
+    text-align: right;
 }
 
 .preis{
     border: none;
+    text-align: right;
 }
 
 
@@ -61,6 +63,7 @@ tr:nth-child(1) > .blau{
     border-top: none;
     border-left: none;
     border-right: none;
+    text-align: right;
 
 }
 
@@ -68,5 +71,6 @@ tr:nth-child(1) > .blau{
     border-top: none;
     border-left: none;
     border-right: none;
+    text-align: right;
 
 }
